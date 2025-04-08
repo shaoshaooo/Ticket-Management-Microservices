@@ -1,0 +1,7 @@
+ryerson/ca/business/XMLParser.class
+ryerson/ca/helper/Book.class
+ryerson/ca/business/Business.class
+ryerson/ca/helper/BooksXML.class
+ryerson/ca/frontend/FrontEnd.class
+ryerson/ca/frontend/Authenticate.class
+ryerson/ca/helper/Author.class
